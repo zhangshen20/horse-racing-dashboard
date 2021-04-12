@@ -37,6 +37,10 @@ This solution will horse racing dashboard. Information included are
 - git remote -v
 - git push heroku master
 
+## Web hosted on heroku
+
+https://horse-racing-dashboard.herokuapp.com/
+
 ## Note
 
 This dashboard is still being developed.
