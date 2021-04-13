@@ -23,7 +23,9 @@ This solution will horse racing dashboard. Information included are
 - which pip
 - pip install --upgrade pip
 - pip install flask pandas plotly gunicorn requests
-- curl https://cli-assets.heroku.com/install-ubuntu.sh | sh https://devcenter.heroku.com/articles/heroku-cli#standalone-installation 
+- **Articles for installing heroku on various Linux (https://devcenter.heroku.com/articles/heroku-cli#standalone-installation)**
+- For ubuntu -> curl https://cli-assets.heroku.com/install-ubuntu.sh | sh 
+- For npm -> npm install -g heroku
 - heroku --version
 - heroku login --interactive
 - cd web_app/
